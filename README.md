@@ -1,34 +1,46 @@
-# How Can I snipe the token in Pump.fun?
-# Solana pumpfun sniper
+# Solana Pumpfun Sniper
 
-This is the first screen of the my Sniper.
+### This public version includes only the buy feature of my sniper. You can test its speed in sniping new tokens with Pump.fun sniper. If you're satisfied, contact me to access the full version of my sniper.
+
+## Clone Project
+
+```bash
+   git clone https://github.com/derricklee918/Sol-Pumpfun-SniperBot.git
+   cd Sol-Pumpfun-SniperBot
+   yarn
+   ```
+
+## Screenshots
+
+<p>This is the first screen of the my Sniper.</p>
+
 ![image](./screenshots/1.png)
 
-This is the settings of my sniper.
-You can set these constants.
+<p>This is the settings of my sniper.
+You can set these constants.</p>
+
 ![image](./screenshots/3.png)
 
-This is the sniper mode of my sniper.
+<p>This is the sniper mode of my sniper.</p>
+
 ![image](./screenshots/2.png)
 
-This is the constants settings of the sniper.
-You can set these constants.
+<p>This is the constants settings of the sniper.
+You can set these constants.</p>
+
 ![image](./screenshots/4.png)
 
-This is the starting of the sniper.
+<p>This is the starting of the sniper.</p>
+
 ![image](./screenshots/5.png)
 
-These are the steps of the sniping process.
+<p>These are the steps of the sniping process.</p>
+
 ![image](./screenshots/6.png)
 ![image](./screenshots/7.png)
 ![image](./screenshots/8.png)
 ![image](./screenshots/9.png)
 
-This public version is only buy part of my sniper.
-You can test it how fast it is to snipe the new tokens in Pump.fun sniper.
-If you are satisfied with this, then you can contact me and get whole part of my sniper.
-Contact info
 
-telegram: @Takhi77
-
-After the contact through telegram, then let's continue through other media.
+## Contact me
+Telegram: [@derricklee918](https://t.me/@derricklee918)
